@@ -7,3 +7,12 @@
 [submodule "projects/pd-np-API"]
 	path = projects/pd-np-API
 	url = https://github.com/jainilgupta02/pd-np-API.git
+[submodule "projects/01-ci-cd-practice"]
+	path = projects/01-ci-cd-practice
+	url = https://github.com/jainilgupta02/ci-cd-practice.git
+[submodule "projects/02-ci-cd-advanced"]
+	path = projects/02-ci-cd-advanced
+	url = https://github.com/jainilgupta02/ci-cd-2.git
+[submodule "projects/03-python-api-devops"]
+	path = projects/03-python-api-devops
+	url = https://github.com/jainilgupta02/pd-np-API.git
