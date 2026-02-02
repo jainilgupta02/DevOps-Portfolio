@@ -1,0 +1,9 @@
+[submodule "projects/ci-cd-2"]
+	path = projects/ci-cd-2
+	url = https://github.com/jainilgupta02/ci-cd-2.git
+[submodule "projects/ci-cd-practice"]
+	path = projects/ci-cd-practice
+	url = https://github.com/jainilgupta02/ci-cd-practice.git
+[submodule "projects/pd-np-API"]
+	path = projects/pd-np-API
+	url = https://github.com/jainilgupta02/pd-np-API.git
