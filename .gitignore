@@ -1,61 +1,34 @@
 # Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.env
+.env
 venv/
-.env/
-*.log
+.venv/
 
 # VS Code
 .vscode/
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-
-# OS Files
-.DS_Store
-Thumbs.db
-
-# Terraform
-.terraform/
-*.tfstate
-*.tfstate.backup
 
 # Docker
 docker-compose.override.yml
 
-# Git
-.gitmodules.lock
-# Python
-__pycache__/
-*.pyc
-.env
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
 
-# VS Code
-.vscode/
-
-# Mac
-.DS_Store
-
-# Jupyter
-.ipynb_checkpoints/
+# Kubernetes
+.kube/
 
 # Logs
 *.log
 
-# Terraform
-.terraform/
-terraform.tfstate*
+# OS files
+.DS_Store
+Thumbs.db
 
-# Docker
-docker-compose.override.yml
+# IDEs
+.idea/
+*.swp
 
-# Kubernetes
-*.kubeconfig
-
-# Build files
-build/
-dist/
-*.zip
+# Git
+.gitmodules
