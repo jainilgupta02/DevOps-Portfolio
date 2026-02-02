@@ -28,3 +28,34 @@ docker-compose.override.yml
 
 # Git
 .gitmodules.lock
+# Python
+__pycache__/
+*.pyc
+.env
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Terraform
+.terraform/
+terraform.tfstate*
+
+# Docker
+docker-compose.override.yml
+
+# Kubernetes
+*.kubeconfig
+
+# Build files
+build/
+dist/
+*.zip
