@@ -18,7 +18,7 @@
 	url = https://github.com/jainilgupta02/pd-np-API.git
 [submodule "projects/04-docker-microservices"]
 	path = projects/04-docker-microservices
-	url = https://github.com/jainilgupta02/docker-microservices-devops.git
+	url = https://github.com/jainilgupta02/docker-microservices-devops
 [submodule "projects/05-kubernetes-deployment"]
 	path = projects/05-kubernetes-deployment
 	url = https://github.com/jainilgupta02/kubernetes-deployment-devops.git
