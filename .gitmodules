@@ -21,16 +21,16 @@
 	url = https://github.com/jainilgupta02/docker-microservices-devops
 [submodule "projects/05-kubernetes-deployment"]
 	path = projects/05-kubernetes-deployment
-	url = https://github.com/jainilgupta02/kubernetes-deployment-devops.git
+	url = https://github.com/jainilgupta02/kubernetes-deployment-devops
 [submodule "projects/06-terraform-aws"]
 	path = projects/06-terraform-aws
-	url = https://github.com/jainilgupta02/terraform-aws-devops.git
+	url = https://github.com/jainilgupta02/terraform-aws-devops
 [submodule "projects/07-ansible-config"]
 	path = projects/07-ansible-config
-	url = https://github.com/jainilgupta02/ansible-config-devops.git
+	url = https://github.com/jainilgupta02/ansible-config-devops
 [submodule "projects/08-monitoring-stack"]
 	path = projects/08-monitoring-stack
-	url = https://github.com/jainilgupta02/monitoring-stack-devops.git
+	url = https://github.com/jainilgupta02/monitoring-stack-devops
 [submodule "projects/09-capstone-project"]
 	path = projects/09-capstone-project
-	url = https://github.com/jainilgupta02/devops-capstone-project.git
+	url = https://github.com/jainilgupta02/devops-capstone-project
